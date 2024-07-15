@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**JsLth/jslth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm a social geographer interested in methods and issues at the intersection of space, environment, and social justice.
+- 📈 I employ methods of spatial analysis, multivariate statistics, and quantitative text analysis
+- 💻 I have some solid knowledge of programming in R and Python
+- 📊 I co-teach a workshop on [interactive visualization with Shiny](https://github.com/paulcbauer/shiny_workshop)
+- 🔭 I’m currently working on
+  - the [SoRa+ project](https://sora-service.org/) on the expansion of the social-spatial research data infrastructure
+  - my PhD proposal on local characteristics of spatial injustices in green transitions
+- 🌱 I’m currently improving in
+  - (Geo-)statistical methods
+  - R package development
+  - Shiny programming
+  - Julia
+- 📫 How to reach me: [jonas.lieth@gesis.org](mailto:jonas.lieth@gesis.org)
