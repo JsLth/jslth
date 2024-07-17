@@ -6,7 +6,7 @@
 - 💻 I have some solid knowledge of programming in R
 - 📊 I co-teach a workshop on [interactive visualization with Shiny](https://github.com/paulcbauer/shiny_workshop)
 - 🔭 I’m currently working on
-  - the [SoRa+ project](https://sora-service.org/) on the expansion of the social-spatial research data infrastructure
+  - the [SoRa+ project](https://sora-service.org/en/) on the expansion of the social-spatial research data infrastructure
   - my PhD proposal on local characteristics of spatial injustices in green transitions
 - 🌱 I’m currently improving in
   - (Geo-)statistical methods
