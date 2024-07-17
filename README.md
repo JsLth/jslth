@@ -15,5 +15,4 @@
   - Julia
 - 📫 How to reach me: [jonas.lieth@gesis.org](mailto:jonas.lieth@gesis.org)
 
-![jslth's Stats](https://github-readme-stats.vercel.app/api?username=jslth&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![jslth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jslth&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![jslth's metrics](github-metrics.svg)
