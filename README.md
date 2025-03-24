@@ -58,11 +58,4 @@
     <td align="center"><a href="https://www.tidyverse.org/lifecycle/#experimental"><img src="https://img.shields.io/badge/lifecycle-experimental-red.svg"></a></td>
     <td width="200">R Package for geocoding based on the data of the Federal Agency of Cartography and Geodesy (BKG) in Germany</td>
   </tr>
-  <tr>
-    <td align="center"></td>
-    <td align="center"><a href="https://jslth.github.io/steamr/"><code>{steamr}</code></a></td>
-    <td align="center"><a href="https://cran.r-project.org/package=steamr"><img src="https://www.r-pkg.org/badges/version/steamr"></a></td>
-    <td align="center"><a href="https://www.tidyverse.org/lifecycle/#experimental"><img src="https://img.shields.io/badge/lifecycle-experimental-red.svg"></a></td>
-    <td width="200">R interface to Steam's various APIs</td>
-  </tr>
 </tbody></table>
