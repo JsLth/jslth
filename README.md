@@ -48,14 +48,14 @@
     <td align="center"></td>
     <td align="center"><a href="https://jslth.github.io/rgesis/"><code>{rgesis}</code></a></td>
     <td align="center"><a href="https://cran.r-project.org/package=rgesis"><img src="https://www.r-pkg.org/badges/version/rgesis"></a></td>
-    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#stable"><img src="https://lifecycle.r-lib.org/articles/figures/lifecycle-experimental.svg"></a></td>
+    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#stable"><img src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"></a></td>
     <td width="200">R interface to GESIS Search</td>
   </tr>
   <tr>
     <td align="center"></td>
     <td align="center"><a href="https://github.com/JsLth/z22"><code>{z22}</code></a></td>
     <td align="center"><a href="https://cran.r-project.org/package=z22"><img src="https://www.r-pkg.org/badges/version/z22"></a></td>
-    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#experimental"><img src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"></a></td>
+    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#experimental"><img src="https://lifecycle.r-lib.org/articles/figures/lifecycle-experimental.svg"></a></td>
     <td width="200">Download German gridded census data quickly and easily</td>
   </tr>
   <tr>
