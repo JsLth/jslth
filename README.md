@@ -45,13 +45,6 @@
     <td width="200">R package to download official spatial data from Germany</td>
   </tr>
   <tr>
-    <td align="center"><img width="100" src="https://raw.githubusercontent.com/JsLth/rors/refs/heads/master/man/figures/logo.png"></td>
-    <td align="center"><a href="https://jslth.github.io/rors/"><code>{rors}</code></a></td>
-    <td align="center"><a href="https://cran.r-project.org/package=rors"><img src="https://www.r-pkg.org/badges/version/rors"></a></td>
-    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#maturing"><img src="https://img.shields.io/badge/lifecycle-maturing-blue.svg"></a></td>
-    <td width="200">R package for tidy routing using OpenRouteService</td>
-  </tr>
-  <tr>
     <td align="center"></td>
     <td align="center"><a href="https://jslth.github.io/rgesis/"><code>{rgesis}</code></a></td>
     <td align="center"><a href="https://cran.r-project.org/package=rgesis"><img src="https://www.r-pkg.org/badges/version/rgesis"></a></td>
@@ -62,8 +55,15 @@
     <td align="center"></td>
     <td align="center"><a href="https://github.com/JsLth/z22"><code>{z22}</code></a></td>
     <td align="center"><a href="https://cran.r-project.org/package=z22"><img src="https://www.r-pkg.org/badges/version/z22"></a></td>
-    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#experimental"><img src="https://lifecycle.r-lib.org/articles/figures/lifecycle-experimental.svg"></a></td>
+    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#stable"><img src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"></a></td>
     <td width="200">Download German gridded census data quickly and easily</td>
+  </tr>
+  <tr>
+    <td align="center"><img width="100" src="https://raw.githubusercontent.com/JsLth/rors/refs/heads/master/man/figures/logo.png"></td>
+    <td align="center"><a href="https://jslth.github.io/rors/"><code>{rors}</code></a></td>
+    <td align="center"><a href="https://cran.r-project.org/package=rors"><img src="https://www.r-pkg.org/badges/version/rors"></a></td>
+    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#maturing"><img src="https://img.shields.io/badge/lifecycle-maturing-blue.svg"></a></td>
+    <td width="200">R package for tidy routing using OpenRouteService</td>
   </tr>
   <tr>
     <td align="center"></td>
