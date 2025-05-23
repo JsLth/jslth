@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td align="center"><img width="100" src="https://github.com/JsLth/ffm/blob/main/man/figures/logo.png"></td>
-    <td align="center"><a href="https://jslth.github.io/rors/"><code>{rors}</code></a></td>
+    <td align="center"><a href="https://jslth.github.io/ffm/"><code>{ffm}</code></a></td>
     <td align="center"><a href="https://cran.r-project.org/package=ffm"><img src="https://www.r-pkg.org/badges/version/ffm"></a></td>
     <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#stable"><img src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"></a></td>
     <td width="200">R package to download official spatial data from Germany</td>
