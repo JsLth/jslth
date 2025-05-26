@@ -6,7 +6,7 @@
 - 💻 I'm mostly proficient in R, but I sometimes use Python and Julia
 - 📊 I co-teach a workshop on [interactive visualization with Shiny](https://github.com/paulcbauer/shiny_workshop)
 - 🔭 I’m currently working on
-  - the [SoRa+ project](https://sora-service.org/en/) on the expansion of the social-spatial research data infrastructure
+  - the [EarthLinks](https://denabel.github.io/gxc_pages/) project on reducing barriers between social sciences and earth observation data
   - my PhD proposal on local characteristics of spatial injustices in green transitions
 - 📫 How to reach me: [jonas.lieth@gesis.org](mailto:jonas.lieth@gesis.org)
 
@@ -57,6 +57,13 @@
     <td align="center"><a href="https://cran.r-project.org/package=z22"><img src="https://www.r-pkg.org/badges/version/z22"></a></td>
     <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#stable"><img src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"></a></td>
     <td width="200">Download German gridded census data quickly and easily</td>
+  </tr>
+  <tr>
+    <td align="center"><img width="100" src="https://github.com/denabel/gxc/blob/main/man/figures/gxc_v2.png"></td>
+    <td align="center"><a href="https://denabel.github.io/gxc_pages/"><code>{gxc}</code></a></td>
+    <td align="center"><a href="https://cran.r-project.org/package=gxc"><img src="https://www.r-pkg.org/badges/version/gxc"></a></td>
+    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#experimental"><img src="https://lifecycle.r-lib.org/articles/figures/lifecycle-experimental.svg"></a></td>
+    <td width="200">Easy access to Earth observation data </td>
   </tr>
   <tr>
     <td align="center"><img width="100" src="https://raw.githubusercontent.com/JsLth/rors/refs/heads/master/man/figures/logo.png"></td>
