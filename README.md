@@ -45,6 +45,13 @@
     <td width="200">R package to download official spatial data from Germany</td>
   </tr>
   <tr>
+    <td align="center"><img width="100" src="https://github.com/JsLth/geoimp/blob/main/man/figures/logo.png"></td>
+    <td align="center"><a href="https://github.com/JsLth/geoimp"><code>{geoimp}</code></a></td>
+    <td align="center"><a href="https://cran.r-project.org/package=geoimp"><img src="https://www.r-pkg.org/badges/version/geoimp"></a></td>
+    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#experimental"><img src="https://lifecycle.r-lib.org/articles/figures/lifecycle-experimental.svg"></a></td>
+    <td width="200">Perform geoimputation in R</td>
+  </tr>
+  <tr>
     <td align="center"></td>
     <td align="center"><a href="https://jslth.github.io/rgesis/"><code>{rgesis}</code></a></td>
     <td align="center"><a href="https://cran.r-project.org/package=rgesis"><img src="https://www.r-pkg.org/badges/version/rgesis"></a></td>
