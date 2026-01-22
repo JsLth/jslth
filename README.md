@@ -6,8 +6,7 @@
 - 💻 I'm mostly proficient in R, but I sometimes use Python and Julia
 - 📊 I co-teach a workshop on [interactive visualization with Shiny](https://github.com/paulcbauer/shiny_workshop)
 - 🔭 I’m currently working on
-  - the [EarthLinks](https://denabel.github.io/gxc_pages/) project on reducing barriers between social sciences and earth observation data
-  - my PhD proposal on local characteristics of spatial injustices in green transitions
+  - my PhD on spatial inequalities in climate change perceptions
 
 ## R packages I'm working on
 
