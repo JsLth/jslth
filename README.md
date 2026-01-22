@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on
   - the [EarthLinks](https://denabel.github.io/gxc_pages/) project on reducing barriers between social sciences and earth observation data
   - my PhD proposal on local characteristics of spatial injustices in green transitions
-- 📫 How to reach me: [jonas.lieth@gesis.org](mailto:jonas.lieth@gesis.org)
 
 ## R packages I'm working on
 
