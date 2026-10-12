@@ -4,9 +4,10 @@
 - 🌍 I'm a social geographer interested in methods and issues at the intersection of space, environment, and social justice.
 - 📈 I employ methods of spatial analysis, multivariate statistics, and quantitative text analysis
 - 💻 I'm mostly proficient in R, but I sometimes use Python and Julia
-- 📊 I co-teach a workshop on [interactive visualization with Shiny](https://github.com/paulcbauer/shiny_workshop)
 - 🔭 I’m currently working on
   - my PhD on spatial inequalities in climate change perceptions
+  - a spatio-temporal dataset of polling stations in NRW, Germany
+  - technical solutions to make remote access to sensitive regional data more safe
 
 ## R packages I'm working on
 
