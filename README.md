@@ -96,7 +96,7 @@
     <td align="center"><img width="100" src="https://raw.githubusercontent.com/StefanJuenger/bkggeocoder/refs/heads/main/man/images/hex_bkggeocoder.png"></td>
     <td align="center"><a href="https://github.com/StefanJuenger/bkggeocoder"><code>{bkggeocoder}</code></a></td>
     <td align="center"><a href="https://cran.r-project.org/package=bkggeocoder"><img src="https://www.r-pkg.org/badges/version/bkggeocoder"></a></td>
-    <td align="center"><a href="https://www.tidyverse.org/lifecycle/#experimental"><img src="https://img.shields.io/badge/lifecycle-experimental-red.svg"></a></td>
+    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#experimental"><img src="https://lifecycle.r-lib.org/articles/figures/lifecycle-experimental.svg"></a></td>
     <td width="200">R Package for geocoding based on the data of the Federal Agency of Cartography and Geodesy (BKG) in Germany</td>
   </tr>
 </tbody></table>
