@@ -30,7 +30,7 @@
     <td width="200">R package for online and offline geocoding powered by photon</td>
   </tr>
   <tr>
-  <td></td>
+    <td align="center"><img width="100" src="https://raw.githubusercontent.com/jslth/winpipe/refs/heads/main/man/figures/logo.png"></td>
     <td align="center"><a href="https://jslth.github.io/winpipe/"><code>{winpipe}</code></a></td>
     <td align="center"><a href="https://CRAN.R-project.org/package=winpipe"><img src="https://www.r-pkg.org/badges/version/winpipe"></a></td>
     <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#stable"><img src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"></a></td>
