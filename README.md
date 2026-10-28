@@ -72,7 +72,7 @@
     <td width="200">R interface to GESIS Search</td>
   </tr>
   <tr>
-    <td align="center"><img width="100" src="https://github.com/denabel/gxc/blob/main/man/figures/gxc_v2.png"></td>
+    <td align="center"><img width="100" src="https://github.com/denabel/gxc/blob/main/man/figures/logo.png"></td>
     <td align="center"><a href="https://denabel.github.io/gxc_pages/"><code>{gxc}</code></a></td>
     <td align="center"><a href="https://cran.r-project.org/package=gxc"><img src="https://www.r-pkg.org/badges/version/gxc"></a></td>
     <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#experimental"><img src="https://lifecycle.r-lib.org/articles/figures/lifecycle-experimental.svg"></a></td>
