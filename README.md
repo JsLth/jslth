@@ -30,6 +30,13 @@
     <td width="200">R package for online and offline geocoding powered by photon</td>
   </tr>
   <tr>
+  <td></td>
+    <td align="center"><a href="https://jslth.github.io/winpipe/"><code>{winpipe}</code></a></td>
+    <td align="center"><a href="https://CRAN.R-project.org/package=winpipe"><img src="https://www.r-pkg.org/badges/version/winpipe"></a></td>
+    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#stable"><img src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"></a></td>
+    <td width="200">Interface to Windows Named Pipes</td>
+  </tr>
+  <tr>
     <td align="center"><img width="100" src="https://raw.githubusercontent.com/rOpenGov/r311/refs/heads/main/man/figures/logo.png"></td>
     <td align="center"><a href="https://ropengov.github.io/r311/"><code>{r311}</code></a></td>
     <td align="center"><a href="https://cran.r-project.org/package=r311"><img src="https://www.r-pkg.org/badges/version/r311"></a></td>
