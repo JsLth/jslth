@@ -9,7 +9,7 @@
   - a spatio-temporal dataset of polling stations in NRW, Germany
   - technical solutions to make remote access to sensitive regional data more safe
 
-## R packages I'm working on
+## R packages I maintain
 
 <table>
  
@@ -72,13 +72,6 @@
     <td width="200">R interface to GESIS Search</td>
   </tr>
   <tr>
-    <td align="center"><img width="100" src="https://github.com/denabel/gxc/blob/main/man/figures/logo.png"></td>
-    <td align="center"><a href="https://denabel.github.io/gxc_pages/"><code>{gxc}</code></a></td>
-    <td align="center"><a href="https://cran.r-project.org/package=gxc"><img src="https://www.r-pkg.org/badges/version/gxc"></a></td>
-    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#experimental"><img src="https://lifecycle.r-lib.org/articles/figures/lifecycle-experimental.svg"></a></td>
-    <td width="200">Easy access to Earth observation data </td>
-  </tr>
-  <tr>
     <td align="center"><img width="100" src="https://raw.githubusercontent.com/JsLth/rors/refs/heads/master/man/figures/logo.png"></td>
     <td align="center"><a href="https://jslth.github.io/rors/"><code>{rors}</code></a></td>
     <td align="center"><a href="https://cran.r-project.org/package=rors"><img src="https://www.r-pkg.org/badges/version/rors"></a></td>
@@ -92,11 +85,48 @@
     <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#experimental"><img src="https://lifecycle.r-lib.org/articles/figures/lifecycle-experimental.svg"></a></td>
     <td width="200">Use dplyr to query OpenStreetMap </td>
   </tr>
+</tbody></table>
+
+
+## R packages I have contributed to
+
+<table>
+ 
+  <thead>
+  <tr>
+    <th>Logo</th>
+    <th>Name</th>
+    <th>CRAN</th>
+    <th>Status</th>
+    <th>Description</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td align="center"><img width="100" src="https://sora-service.pages.gesis.org/sora/man/figures/logo.png"></td>
+    <td align="center"><a href="https://sora-service.pages.gesis.org/sora/"><code>{sora}</code></a></td>
+    <td align="center"><a href="https://cran.r-project.org/package=sora"><img src="https://www.r-pkg.org/badges/version/sora"></a></td>
+    <td align="center"></td>
+    <td width="200">R Package of the [SoRa Linking Service](https://sora-service.org/en/) for secure spatial linking in air-gapped data enclaves</td>
+  </tr>
+  <tr>
+    <td align="center"><img width="100" src="https://github.com/denabel/gxc/blob/main/man/figures/logo.png"></td>
+    <td align="center"><a href="https://denabel.github.io/gxc_pages/"><code>{gxc}</code></a></td>
+    <td align="center"><a href="https://cran.r-project.org/package=gxc"><img src="https://www.r-pkg.org/badges/version/gxc"></a></td>
+    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#experimental"><img src="https://lifecycle.r-lib.org/articles/figures/lifecycle-experimental.svg"></a></td>
+    <td width="200">Easy access to Earth observation data </td>
+  </tr>
   <tr>
     <td align="center"><img width="100" src="https://raw.githubusercontent.com/StefanJuenger/bkggeocoder/refs/heads/main/man/images/hex_bkggeocoder.png"></td>
     <td align="center"><a href="https://github.com/StefanJuenger/bkggeocoder"><code>{bkggeocoder}</code></a></td>
     <td align="center"><a href="https://cran.r-project.org/package=bkggeocoder"><img src="https://www.r-pkg.org/badges/version/bkggeocoder"></a></td>
     <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#experimental"><img src="https://lifecycle.r-lib.org/articles/figures/lifecycle-experimental.svg"></a></td>
     <td width="200">R Package for geocoding based on the data of the Federal Agency of Cartography and Geodesy (BKG) in Germany</td>
+  </tr>
+  <tr>
+    <td align="center"><img width="100" src="https://www.ekotov.pro/gridmaker/logo.png"></td>
+    <td align="center"><a href="https://www.ekotov.pro/gridmaker/"><code>{gridmaker}</code></a></td>
+    <td align="center"><a href="https://cran.r-project.org/package=gridmaker"><img src="https://www.r-pkg.org/badges/version/gridmaker"></a></td>
+    <td align="center"><a href="https://lifecycle.r-lib.org/articles/stages.html#stable"><img src="https://lifecycle.r-lib.org/articles/figures/lifecycle-stable.svg"></a></td>
+    <td width="200">Create INSPIRE-compliant grids with IDs</td>
   </tr>
 </tbody></table>
