@@ -102,7 +102,7 @@
   </tr></thead>
 <tbody>
   <tr>
-    <td align="center"><img width="100" src="https://sora-service.pages.gesis.org/sora/man/figures/logo.png"></td>
+    <td align="center"><img width="100" src="https://github.com/JsLth/jslth/blob/main/img/sora.png?raw=true"></td>
     <td align="center"><a href="https://sora-service.pages.gesis.org/sora/"><code>{sora}</code></a></td>
     <td align="center"><a href="https://cran.r-project.org/package=sora"><img src="https://www.r-pkg.org/badges/version/sora"></a></td>
     <td align="center"></td>
