@@ -106,7 +106,7 @@
     <td align="center"><a href="https://sora-service.pages.gesis.org/sora/"><code>{sora}</code></a></td>
     <td align="center"><a href="https://cran.r-project.org/package=sora"><img src="https://www.r-pkg.org/badges/version/sora"></a></td>
     <td align="center"></td>
-    <td width="200">R Package of the [SoRa Linking Service](https://sora-service.org/en/) for secure spatial linking in air-gapped data enclaves</td>
+    <td width="200">R Package of the <a href="https://sora-service.org/en/">SoRa Linking Service</code></a></td>
   </tr>
   <tr>
     <td align="center"><img width="100" src="https://github.com/denabel/gxc/blob/main/man/figures/logo.png"></td>
